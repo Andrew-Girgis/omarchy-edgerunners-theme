@@ -1,5 +1,7 @@
 # Cyberpunk Edgerunners Omarchy theme
 
+![Edgerunners theme preview](preview.png)
+
 A neon [Omarchy](https://omarchy.org) theme built from stills of *Cyberpunk: Edgerunners*.
 Dark violet-black background, electric cyan, neon green, Edgerunners yellow.
 
