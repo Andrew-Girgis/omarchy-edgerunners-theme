@@ -30,6 +30,8 @@ Extracted with [Aether](https://github.com/omacom/aether) from
 
 ## Wallpapers
 
+Each wallpaper is named after a quote from *Cyberpunk: Edgerunners*.
+
 - all_ive_ever_wanted_is_for_you_to_live
 - another_tale_for_the_next_dreamer
 - dont_make_a_name_for_yourself_as_a_cyberpunk_by_how_you_live
