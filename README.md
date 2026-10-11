@@ -32,15 +32,15 @@ Extracted with [Aether](https://github.com/omacom/aether) from
 
 Each wallpaper is named after a quote from *Cyberpunk: Edgerunners*.
 
-- all_ive_ever_wanted_is_for_you_to_live
-- another_tale_for_the_next_dreamer
-- dont_make_a_name_for_yourself_as_a_cyberpunk_by_how_you_live
-- fast_is_what_you_do_best_aint_it
-- fly_you_to_the_moon
-- i_just_dont_want_you_to_die
-- ill_take_you_to_the_moon_thats_a_promise
-- look_mom_im_at_the_top_of_arasaka_tower
-- you_didnt_take_me_to_the_moon_but_you_were_there_with_me
+- "All I've ever wanted is for you to live."
+- "Another tale for the next dreamer."
+- "Don't make a name for yourself as a cyberpunk by how you live."
+- "Fast is what you do best, ain't it?"
+- "Fly you to the moon."
+- "I just don't want you to die."
+- "I'll take you to the moon. That's a promise."
+- "Look, Mom, I'm at the top of Arasaka Tower."
+- "You didn't take me to the moon, but you were there with me."
 
 ## Credits
 
