@@ -9,7 +9,7 @@ Dark violet-black background, electric cyan, neon green, Edgerunners yellow.
 omarchy theme install https://github.com/Andrew-Girgis/omarchy-edgerunners-theme
 ```
 
-Cycle through the wallpapers with `omarchy theme bg next`.
+Pick a wallpaper with **Super + Ctrl + Space** (background switcher), or cycle through them with `omarchy theme bg next`.
 
 ## Palette
 
