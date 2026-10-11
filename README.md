@@ -13,8 +13,8 @@ Cycle through the wallpapers with `omarchy theme bg next`.
 
 ## Palette
 
-Extracted with [Aether](https://github.com/omacom/aether) from
-the "I just don't want you to die" wallpaper.
+Extracted with [Aether](https://github.com/omacom/aether) by blending several of the
+wallpapers, with "I just don't want you to die" as the main image.
 
 | Role | Normal | Bright |
 |---|---|---|
