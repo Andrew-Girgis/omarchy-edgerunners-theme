@@ -44,6 +44,17 @@ Each wallpaper is named after a quote from *Cyberpunk: Edgerunners*.
 - "Look, Mom, I'm at the top of Arasaka Tower."
 - "You didn't take me to the moon, but you were there with me."
 
+## Intros
+
+Four wallpapers have a short intro clip that plays when you switch to the theme, then eases into the still:
+
+- "Don't make a name for yourself as a cyberpunk by how you live."
+- "Fast is what you do best, ain't it?"
+- "I just don't want you to die."
+- "I'll take you to the moon. That's a promise."
+
+Turn intros on or off with `omarchy theme bg intro toggle`.
+
 ## Credits
 
 Wallpapers are frames from *Cyberpunk: Edgerunners* © CD PROJEKT S.A. / Studio Trigger.
